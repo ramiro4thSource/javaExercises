@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Contains the "Toss-up". There is a main method included here to execute main logic
  * */
-public class game_class {
+public class TossGame {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
